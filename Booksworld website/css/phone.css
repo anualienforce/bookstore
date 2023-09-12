@@ -1,0 +1,15 @@
+.carousel-caption{
+     display: block!important; 
+}
+
+.carousel-caption h5{
+     font-size: 1rem;
+ }
+
+.carousel-caption p{
+     font-size: 0.6rem;
+ }
+
+ .navbar{
+     height: 60px;
+ }

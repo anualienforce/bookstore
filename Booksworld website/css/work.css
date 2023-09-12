@@ -1,0 +1,131 @@
+.carousel-caption h5{
+    font-size: 2.3rem;
+}
+
+.navbg{
+
+   padding: 0px;
+   position: sticky;
+   background-color: brown;
+    /* --bs-navbar-padding-y: 0.0rem; */
+}
+.bg-body-tertiary{
+    background-color: aqua;
+}
+.container-fluid{
+    background-color: #fcc1ff;
+
+}
+
+.container-fluid span{
+    display: block;
+    padding: 10px;
+}
+
+.form-control{
+    border-radius: 20px;
+    margin: 0px;
+}
+
+.navbar-collapse{
+    padding: 10px;
+
+}
+
+.searchbtn{
+    height: 28px;
+    width: 38px;
+    position: relative;
+    top: 4px;
+    margin-right: 20px;
+}
+
+.btn-outline-success{
+    font-size: 1rem;
+}
+
+.logo{
+    height: 70px;
+    width: 70px;
+}
+
+.title-name{
+    padding: 10px 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-container{
+    display: flex;
+    padding: 20px 20px;
+}
+
+.card{
+
+    box-shadow: 2px 3px 79px 3px #bebaba;
+}
+
+.card-center{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+}
+
+.iconimg{
+    height: 40px;
+    width: 45px;
+
+}
+
+.feature-box{
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(170, 154, 154);
+    border-radius: 5px;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    padding: 10px 10px;
+}
+
+.mb--30{
+    padding: 10px 10px;
+}
+
+.col-xl-3{
+    padding: 10px 10px;
+}
+
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+}
+
+.foot h5{
+    color: white;
+}
+
+.d-block{
+    /* height: 700px; */
+}
